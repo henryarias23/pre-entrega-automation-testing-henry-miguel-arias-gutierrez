@@ -22,7 +22,7 @@ El objetivo principal es validar los flujos fundamentales de la plataforma web:
 
 ---
 
-## 📦 3. Instrucciones de Instalación de Dependencias
+## 📦 Instrucciones de Instalación de Dependencias
 
 Sigue estos pasos en tu terminal (CMD, PowerShell o terminal de VS Code) tras a ver clonado el repositorio, Para preparar el entorno de desarrollo e instalar los paquetes necesarios para la automatización:
 
